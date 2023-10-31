@@ -28,7 +28,7 @@ export default function Contact({navigation}) {
                 onPress={() => navigation.navigate('Information', {
                     name: 'Beltrano da silva',
                     phone: '(11) 99195-0912',
-                    adress: 'Rua 80',
+                    adress: 'Avenida estrela',
                     number: '997',
                     profession: 'Teacher',
                     email: 'beltranodasilva@gmail.com'
